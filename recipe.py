@@ -11,3 +11,8 @@ st.sidebar.info("Hello Amal S.")
 
 st.write("1) First Recipe : Poulet aux olives")
 
+st.set_page_config(
+    page_title="FFF",
+    page_icon=':pizza:'
+)
+
