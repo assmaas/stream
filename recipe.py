@@ -7,7 +7,7 @@ import numpy as np
 # adding title in streamlit
 st.sidebar.markdown(f"<span style='color: black;font-size: 36px;font-weight: bold;'> Recettes </span>", unsafe_allow_html=True)
 
-st.sidebar.info("Hello Amal S.")
+st.sidebar.info("Hello")
 
 st.write("1) First Recipe : Poulet aux olives")
 
